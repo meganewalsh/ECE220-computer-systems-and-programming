@@ -1,0 +1,14 @@
+Compilation Results:
+********************
+
+Test Input x00AC: R6 should be x002D for full points
+
+Test Input x0077: R6 should be x00F5 for full points
+
+Test Input x006D: R6 should be x00AB for full points
+
+
+Grade:
+******
+Functionality: 0  
+Partial credit given: 0

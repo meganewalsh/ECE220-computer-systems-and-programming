@@ -1,0 +1,18 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	READ              3009
+//	CH_NUM            300D
+//	CH_AST            3019
+//	F_AST             3020
+//	WORD_START        3025
+//	WORD_END          3026
+//	NUM_ZERO          3027
+//	NUM_DIGITS        3028
+//	ASCII_ZERO        3029
+//	ASCII_NINE        302A
+//	ASCII_NEG_ASTERISK  302B
+//	ASCII_NEG_ZERO    302C
+//	STRING_START      302D
+

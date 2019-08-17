@@ -1,0 +1,6 @@
+file prog
+reg r2 x0001
+reg r4 xffff
+reg r5 xffff 
+reg r6 xffff
+c

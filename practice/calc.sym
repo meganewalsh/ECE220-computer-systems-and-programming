@@ -1,0 +1,31 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	READCHAR          3007
+//	CHECKSEMI         3009
+//	CHECKPLUS         300E
+//	CHECKNUM          3015
+//	ADDITION          3022
+//	ERROR             302B
+//	PRINTSUM          302E
+//	PUSH              3031
+//	OVERFLOW          303F
+//	DONE_PUSH         3040
+//	PUSH_SaveR3       3043
+//	PUSH_SaveR4       3044
+//	POP               3045
+//	UNDERFLOW         3052
+//	DONE_POP          3053
+//	POP_SaveR3        3056
+//	POP_SaveR4        3057
+//	STACK_END         3058
+//	STACK_START       3059
+//	STACK_TOP         305A
+//	SEMICOL           305B
+//	THIRTY            305C
+//	NINE              305D
+//	PLUS              305E
+//	OPEN              305F
+//	INV               307E
+

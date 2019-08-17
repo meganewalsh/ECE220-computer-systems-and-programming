@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	Psquare           3004
+//	ADD_ONE           3008
+//	SQUARE            3012
+//	LOOP              3016
+//	NUM               301D
+//	SAVE_R7           301E
+

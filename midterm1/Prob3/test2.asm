@@ -1,0 +1,5 @@
+.ORIG x4000
+
+.STRINGZ "ABCD2efgh*"
+HALT
+.END

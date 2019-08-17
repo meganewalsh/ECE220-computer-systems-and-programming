@@ -1,0 +1,6 @@
+My name is Megan Walsh and I am a freshman studying computer engineering. So far
+this year, I have taken ECE 120 and am currently enrolled in ECE 110 and ECE
+220. I decided to take 220 this semester because I liked the content of ECE
+110 and I would like to know more about C programming before entering my
+sophomore year. I am interested in CompE because I like the creativity involved
+and I enjoy learning about the different things that computers are capable of.

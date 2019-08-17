@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PRINT4D           3004
+//	SHIFTD            3008
+//	ADD0              300C
+//	CHECK9            3017
+//	DONE              301C
+//	DIG               301D
+//	LET               301E
+

@@ -1,0 +1,14 @@
+Problem 4.
+
+Record your answers here for the following TRUE or FALSE questions. No explanation is needed. Your answer must be all uppercase. Incorrect format and typos will be graded as incorrect answer.
+
+
+1. Assuming 3 items have been pushed onto the stack. After a POP operation, the last item pushed onto the stack will be erased from memory. (5 points) (TRUE or FALSE)
+Answer: TRUE
+
+
+2. Polling is more efficient than interrupt-driven I/O. (5 points) (TRUE or FALSE)
+Answer: FALSE
+
+
+

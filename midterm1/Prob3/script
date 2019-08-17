@@ -1,0 +1,33 @@
+file test1.obj
+c
+file decode_str.obj
+c
+reset
+file test2.obj
+c
+file decode_str.obj
+c
+reset
+file test3.obj
+c
+file decode_str.obj
+c
+reset
+file test4.obj
+c
+file decode_str.obj
+c
+reset
+file test5.obj
+c
+file decode_str.obj
+c
+reset
+file test6.obj
+c
+file decode_str.obj
+c
+quit
+
+
+
